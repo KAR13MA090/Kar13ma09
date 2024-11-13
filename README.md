@@ -9,6 +9,7 @@
   <img src="img/windows.png" width="80" height="80">
   <h2>Windows</h2><br>
 </div>
+<br
 Tải Về Python 3.10 [here](https://www.python.org/downloads/), 
   make setup
   make run
@@ -151,4 +152,4 @@ Cả tấn công `HTTP` và `Slowloris` đều có phiên bản proxy. Nếu b�
   <h2>⚠ Tuyên bố từ chối trách nhiệm</h2><br>
 </div>
 
-This application is intended to be used as a testing tool against your own servers. **DO NOT USE IT TO ATTACK OTHER PEOPLE**, we don't take responsibility for anything that may come up if you attack someone else. Also, this project makes a `DoS` attack, if you want to take down well-hosted servers, then it's up to you to scale the attack using a `DDoS` approach. Know the limitations of what you can do, and the defense mechanism used by your target; for instance, if a webserver uses DDoS mitigation appliances (such as load balancing), then you'll probably fail to take it down; a router that implements SYN Cookies will not be affected by a SYN-Flood attack, and so on.
+Ứng dụng này được thiết kế để sử dụng như một công cụ kiểm tra trên các máy chủ của riêng bạn. **KHÔNG SỬ DỤNG NÓ ĐỂ TẤN CÔNG NGƯỜI KHÁC**, chúng tôi không chịu trách nhiệm cho bất kỳ điều gì có thể xảy ra nếu bạn tấn công người khác. Ngoài ra, dự án này thực hiện tấn công `DDoS`, nếu bạn muốn hạ gục các máy chủ được lưu trữ tốt, thì bạn phải tự mình mở rộng cuộc tấn công theo cách `DDoS`. Hãy biết giới hạn của những gì bạn có thể làm và cơ chế phòng thủ được sử dụng bởi mục tiêu của bạn; ví dụ, nếu một máy chủ web sử dụng thiết bị giảm thiểu DDoS (như cân bằng tải), thì bạn có thể sẽ không thể hạ gục nó; một bộ định tuyến thực hiện SYN Cookies sẽ không bị ảnh hưởng bởi cuộc tấn công SYN-Flood, và vân vân.
