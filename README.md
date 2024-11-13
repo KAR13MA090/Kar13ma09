@@ -4,10 +4,6 @@
 <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"> 
 </div>
 
-<p align="center">
-  <img src="img/logo.png" width="250" height="250">
-</p>
-
 <div align="center">
   <h1>💻 Preview</h1>
 </div>
