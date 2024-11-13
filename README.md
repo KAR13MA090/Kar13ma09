@@ -10,16 +10,17 @@
   <h2>Windows</h2><br>
 </div>
 <br>
+---
 Tải Về Python 3.10 [here](https://www.python.org/downloads/), 
   make setup
   make run
-  ```
+  ---
 Nếu bạn không có nó, thì thực hiện:
-  ```
+  ---
   curl -sSL https://install.python-poetry.org | python3
   poetry install --without dev
   poetry run python3 kar13ma09.py
-  ```
+  ---
   ---
 <div align="center">
   <br>
