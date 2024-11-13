@@ -9,7 +9,7 @@
   <img src="img/windows.png" width="80" height="80">
   <h2>Windows</h2><br>
 </div>
-<br
+<br>
 Tải Về Python 3.10 [here](https://www.python.org/downloads/), 
   make setup
   make run
