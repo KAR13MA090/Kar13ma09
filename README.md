@@ -5,32 +5,25 @@
 </div>
 
 <div align="center">
-
-<div align="center">
   <h1>Installation</h1>
   <img src="img/windows.png" width="80" height="80">
   <h2>Windows</h2><br>
 </div>
-
 Tải Về Python 3.10 [here](https://www.python.org/downloads/), 
   make setup
   make run
   ```
-
 Nếu bạn không có nó, thì thực hiện:
-
   ```
   curl -sSL https://install.python-poetry.org | python3
   poetry install --without dev
   poetry run python3 kar13ma09.py
   ```
-
   ---
 <div align="center">
   <br>
   <img src="img/linux.png" width="100" height="80"><h2>Linux</h2><br>
 </div>
-
 ```
 sudo apt update
 sudo apt install python3 python3-pip git -y
