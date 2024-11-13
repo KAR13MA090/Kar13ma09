@@ -5,11 +5,6 @@
 </div>
 
 <div align="center">
-  <h1>💻 Preview</h1>
-</div>
-<p align="center">
-  <img src="img/preview.gif">
-</p>
 
 <div align="center">
   <h1>Installation</h1>
