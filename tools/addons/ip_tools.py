@@ -1,5 +1,3 @@
-"""This module provides functions to analyze network matters."""
-import base64
 import ipaddress
 import os
 import re
@@ -9,7 +7,6 @@ from functools import cache
 from time import sleep
 from typing import List
 from urllib.parse import urlparse
-
 import requests
 from colorama import Fore as F
 from requests.exceptions import Timeout
